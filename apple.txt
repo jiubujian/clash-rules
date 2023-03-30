@@ -46,7 +46,7 @@ payload:
   - '+.download.developer.apple.com'
   - '+.gs-loc-cn.apple.com'
   - '+.gs-loc.apple.com'
-  - 'DOMAIN-SUFFIX,ls.apple.com'
+  - '+.ls.apple.com'
   - '+.guzzoni-apple-com.v.aaplimg.com'
   - '+.guzzoni.apple.com'
   - '+.iadsdk.apple.com'
